@@ -1,5 +1,9 @@
-# Costurando Ideias
-<h3>Criando e Remodelando Conceitos</h3>
+<center>
+    <img src="img/Costurando Ideias logo.png">
+    <h1>Costurando Ideias</h1>
+</center>
+
+<center>Criando e Remodelando Conceitos</center>
 
 <h4>Trabalho de Conclusão de Curso do curso de Técnico em Desenvolvimento de Sistemas</h4>
 
