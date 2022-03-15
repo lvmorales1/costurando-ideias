@@ -1,7 +1,7 @@
-<center>
+<div align="center">
     <img src="img/Costurando Ideias logo.png">
     <h1>Costurando Ideias</h1>
-</center>
+</div>
 
 <center>Criando e Remodelando Conceitos</center>
 
