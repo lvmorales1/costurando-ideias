@@ -3,7 +3,7 @@
     <h1>Costurando Ideias</h1>
 </div>
 
-<center>Criando e Remodelando Conceitos</center>
+<div align="center">Criando e Remodelando Conceitos</div>
 
 <h4>Trabalho de Conclusão de Curso do curso de Técnico em Desenvolvimento de Sistemas</h4>
 
